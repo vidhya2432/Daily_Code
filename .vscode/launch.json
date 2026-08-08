@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "OddEvenArray",
+            "request": "launch",
+            "mainClass": "OddEvenArray",
+            "projectName": "Daily_Code_e8299e76"
+        },
+        {
+            "type": "java",
             "name": "SecondSmallest",
             "request": "launch",
             "mainClass": "SecondSmallest",
