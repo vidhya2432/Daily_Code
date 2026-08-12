@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PositiveNegative",
+            "request": "launch",
+            "mainClass": "PositiveNegative",
+            "projectName": "Daily_Code_e8299e76"
+        },
+        {
+            "type": "java",
             "name": "OddEvenArray",
             "request": "launch",
             "mainClass": "OddEvenArray",
