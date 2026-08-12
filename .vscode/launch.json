@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "Daily_Code_e8299e76"
+        },
+        {
+            "type": "java",
+            "name": "FibonacciSum",
+            "request": "launch",
+            "mainClass": "FibonacciSum",
+            "projectName": "Daily_Code_e8299e76"
+        },
+        {
+            "type": "java",
+            "name": "FibonacciSeries",
+            "request": "launch",
+            "mainClass": "FibonacciSeries",
+            "projectName": "Daily_Code_e8299e76"
+        },
+        {
+            "type": "java",
             "name": "PositiveNegative",
             "request": "launch",
             "mainClass": "PositiveNegative",
