@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Read_Print",
+            "request": "launch",
+            "mainClass": "Read_Print",
+            "projectName": "Daily_Code_e8299e76"
+        },
+        {
+            "type": "java",
             "name": "Reverse",
             "request": "launch",
             "mainClass": "Reverse",
